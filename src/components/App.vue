@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { Client, cacheExchange, fetchExchange, provideClient } from "@urql/vue";
 import PokemonList from "./PokemonList.vue";
 
