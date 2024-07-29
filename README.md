@@ -7,8 +7,7 @@ Repro steps:
 3. It should output the following error:
 
 ```sh
-src/components/PokemonItem.vue
-  10:10 error   Unknown fragment "PokemonTypes".
-
-✖ 1 problems (1 errors, 0 warnings)
+ ⚠ Unexpected Error 
+Could not check files
+┗ RangeError: Maximum call stack size exceeded
 ```
